@@ -25,6 +25,7 @@ body:after {
     height: 280px;
     background-image: url('wave.png');
     z-index: -1;
+    background-repeat: round;
 }
 body:after {
     background-image: url('wave-2.png');
